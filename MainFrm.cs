@@ -149,7 +149,7 @@ namespace Windows_UltraReport
 
             IPdfExportRenderer a = null;
             
-            pdfExporter.RunExportAsync("d:\\export.pdf");
+            //pdfExporter.RunExportAsync("d:\\export.pdf");
         }
     }
 }
